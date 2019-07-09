@@ -5,7 +5,7 @@ the course Functional Programming Principles in Scala on the old version courser
 
 ### List of Assignment
 
-[Getting Started]([https://github.com/James-Zhao/Functional-Programming-Principles-in-Scala/blob/master/example/Getting%20Started.md](https://github.com/James-Zhao/Functional-Programming-Principles-in-Scala/blob/master/example/Getting Started.md)): Example Assignment
+[Getting Started](https://github.com/James-Zhao/Functional-Programming-Principles-in-Scala/blob/master/example/Getting%20Started.md): Example Assignment
 
 Week 1 Function & Evaluations: Recursion
 

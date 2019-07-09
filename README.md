@@ -12,4 +12,3 @@ the course Functional Programming Principles in Scala on the old version courser
 - Week 4 Types and Pattern Matching: Huffman Coding
 - Week 6 Collections: Anagrams
 - Week 7 Lazy Evaluation: Bloxorz
-
